@@ -1,6 +1,6 @@
 # Backend
 
-This Java maven project uses Rest Assured libraries to automate tests for the given website.
+This Java maven project uses Rest Assured libraries and Cucumber/BDD to automate tests for the given website.
 Below are the scenarios.
 Scenario 1:
 1. Retrieve the ID of bitcoin (BTC), usd tether (USDT), and Ethereum (ETH), using the /cryptocurrency/map call.
